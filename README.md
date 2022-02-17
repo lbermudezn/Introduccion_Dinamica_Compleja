@@ -1,0 +1,2 @@
+# Introduccion_Dinamica_Compleja
+Este documento es un primer borrador  donde traduzco  algunas definiciones de las referencias indicadas por el profesor German,   y una parte aplicada donde  comento el código en python   para la generación del conjunto de Julia y Mandelbrot y algunos ejemplos  de  c= -0.624 + 0.435i, -.12256 +.74486i (conejo de Douady), 0 + 1i(una dendrita), 0+0i( el circulo), - 1.75488 + 0i(El Aeroplano) y  el conjunto de Mandelbrot de dos formas distintas.
